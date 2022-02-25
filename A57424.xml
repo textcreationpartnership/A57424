@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Darby-shire. Or The wonder of all wonders That ever yet was printed, being a perfect and true relation of the handy work of almighty God shown upon the body of one Martha Taylor now living about a mile or something more from Backwell in Darby shire, hard by a pasture commonly called Hadin pasture, this maid as it hath pleased the Lord, she hath fasted forty weeks and more, which may very well be called a wonder of all wonders, though most people wh[i]ch hear this may censure this to be some fable, yet if they please but to take the pains to read over the book, I hope that they will be better satisfied and have some faith to believe. This maid is still alive and hath a watch set over her by order of the Earl of Devon-shire. Written by me T. Robins. B. of D. a well wisher to the gospel of Iesus Christ. Oct.13.1668</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57424</idno>
+            <idno type="STC">Wing R1657</idno>
+            <idno type="STC">ESTC R220842</idno>
+            <idno type="EEBO-CITATION">99832227</idno>
+            <idno type="PROQUEST">99832227</idno>
+            <idno type="VID">36699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2056:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Darby-shire. Or The wonder of all wonders That ever yet was printed, being a perfect and true relation of the handy work of almighty God shown upon the body of one Martha Taylor now living about a mile or something more from Backwell in Darby shire, hard by a pasture commonly called Hadin pasture, this maid as it hath pleased the Lord, she hath fasted forty weeks and more, which may very well be called a wonder of all wonders, though most people wh[i]ch hear this may censure this to be some fable, yet if they please but to take the pains to read over the book, I hope that they will be better satisfied and have some faith to believe. This maid is still alive and hath a watch set over her by order of the Earl of Devon-shire. Written by me T. Robins. B. of D. a well wisher to the gospel of Iesus Christ. Oct.13.1668</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>[2], 14 [i.e. 13], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. P.[assinger], at the three Bibles on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and date of publication from Wing.</note>
+                  <note>Page 13 misnumbered "14".</note>
+                  <note>Imperfect; pages tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasting --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36699:1" rendition="simple:additions"/>
+            <p>
+               <hi>Newes from Darby-shire.</hi> OR THE Wonder of all Wonders.</p>
+            <p>That ever yet was Printed, being a perfect and true Relation of the handy work of Almighty God ſhown upon the body of one <hi>Martha Taylor</hi> now living about a mile or ſomething more from <hi>Backwell</hi> in <hi>Darby ſhire,</hi> hard by a Paſture commonly called <hi>Hadin</hi> Paſture, this Maid as it hath pleaſed the Lord, ſhe hath faſted forty weeks and more, which may very well be called a <hi>wonder of all Wonders,</hi> though moſt people which hear this may cenſure this to be ſome Fable, yet if they pleaſe but to take the pains to read over the book, I hope that they will be better ſa<g ref="char:EOLhyphen"/>tisfied and have ſome faith to believe.</p>
+            <p>This Maid is ſtill alive and hath a watch ſet over her by order of the Earl of Devon-ſhire.</p>
+            <q>Fear not O Land be glad and rejoyce for the Lord will do great things <bibl>
+                  <hi>Jo. 2. v. 21.</hi>
+               </bibl> And I will ſhew Wonders in the Heavens, and in the Earth <bibl>
+                  <hi>v. 30.</hi>
+               </bibl>
+            </q>
+            <p>Written by me <hi>T. Robins. B.</hi> of <hi>D.</hi> a well wiſher to the goſpel of Ieſus Chriſt. <hi>Oct.</hi> 13. 1668.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>T.P.</hi> at the three Bibles on <hi>London-bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="news">
+            <pb facs="tcp:36699:2"/>
+            <pb n="1" facs="tcp:36699:2"/>
+            <head>News from <hi>Darby-ſhire.</hi>
+            </head>
+            <p>MY beloved Brethren, I beſeech you all young or old, rich or poor, of what de<g ref="char:EOLunhyphen"/>gree ſoever you be, which reads or hears this little book I ſay I would have you to give good attention unto it, for it is worth your obſervation: for as I have ſtiled it upon theſe words, which is <hi>Gods Love from heaeven, to ſin<g ref="char:EOLhyphen"/>ners on earth.</hi> So I hope by Gods aſſiſtance, I ſhall clearly prove it here unto you as ſoon as I have declared the ſubject of this work, which I have taken in hand, and now by Gods help I do intend to let you underſtand one of the ſtrangeſt wondrous works as I may call it wrought by the handy work of God in love <hi>to ſinners upon earth,</hi> the like ne<g ref="char:EOLhyphen"/>ver heard on before, I do believe ſince the Lord created man, which I now ſhall declare unto you all within the County of <hi>Darby<g ref="char:EOLhyphen"/>ſhire</hi> about a mile or ſome little more off <hi>Backwell</hi> near a place called <hi>Overhadin,</hi> near
+<pb n="2" facs="tcp:36699:3"/>to a Paſture commonly called <hi>Hadin</hi> Paſtury in a little houſe hard by the Mill, there liveth a Damſel called <hi>Martha Taylor</hi> daughter to <hi>William Taylor,</hi> a young woman about 19 years of age, this Maid it is which the Lord i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pleaſed to ſhow his handy work upon, and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I may boldly ſay he hath ſent down his ſpi<g ref="char:EOLhyphen"/>ritual love from heaven upon her: as by the grace of God I do intend to make it plainly appear unto you, for when ſhe was about 12 years old, it pleaſed the Lord to ſtrike her with a lameneſs in her limbs, about the ſmal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of her back, and ſo ſhe continued about the ſpace of 6 years, which was a great cauſe to make her ſtoop very much in her going, and towards the latter end of thoſe years, it plea<g ref="char:EOLhyphen"/>ſed God to take her ſtomach from her: that ſhe could not eat as formerly ſhe uſed to do.</p>
+            <p>But ſince Saint <hi>Thomas's</hi> day in one thou<g ref="char:EOLhyphen"/>ſand ſix hundred ſixty ſeven, ſhe hath not ta<g ref="char:EOLhyphen"/>ken any manner of food, bread, drink, or wa<g ref="char:EOLhyphen"/>ter, or any thing to preſerve mortal life, e<g ref="char:EOLhyphen"/>ver ſince the day aforeſaid; which is from that day to this day of my preſent writing, 40 weeks and upward, which is as I told you before as ſtrange a wonder as ever was ſince; the creation of man &amp; a thing worthy to be chronicled for a memorial to our ſeed here<g ref="char:EOLhyphen"/>after
+<pb n="3" facs="tcp:36699:3"/>and as I told you before my conſcience tells me I may boldly ſay it is <hi>Gods love from heaven to Sinners upon earth,</hi> but before I paſs any further I do intend to give you a little more ſatisfaction concerning this Maids faſt<g ref="char:EOLhyphen"/>ing which is manifeſtly made appear: for ſome of the head of the Gentry of that coun<g ref="char:EOLhyphen"/>try having a great deſire to be more fully ſa<g ref="char:EOLhyphen"/>tiſfied in the truth, the thing being ſo won<g ref="char:EOLhyphen"/>derful and ſtrange that they ſcarce knew how to believe: ſo they thought good to make choice of twenty maids to watch and wait with her, that they might be the better ſatisfied in the truth: and ſo there was twen<g ref="char:EOLhyphen"/>ty Maids choſen and they did wait with her every one her turn, and has ſatiſfied for very truth that ſhe doth not receive any kind of food into her body, but all that is done un<g ref="char:EOLhyphen"/>to her, her mother anointeth her lips with a feather and ſpring water, by reaſon of the hotneſs of her breath, this was certified for very truth by theſe twenty maids when they had done waiting with her and this I hope will ſerve to ſatisfie every true believe<g ref="char:EOLhyphen"/>ing Chriſtian that they may receive this won<g ref="char:EOLhyphen"/>derful ſtrange ſtory, as a true ſtory, and not as a fable, which I deſire that every chriſtian which hears it to believe it for a truth for I my ſelf which is the Author of this little book
+<pb n="4" facs="tcp:36699:4"/>wou'd have you to underſtand that my be<g ref="char:EOLhyphen"/>lief is that I ſhould be worſe then an infidel, if I ſhould ſet out any ſuch a miraculous thing as this if it were a fable, and being ſo bold to joyn it with Gods word, no, far be it from me ſo to do: for I know it to be true by the evidence of her neighbours, and divers perſons and men of quality which hath been with her, and doth affirm it to be true, yet ſomething more I have to let you underſtand concerning this Maid, which is very ſtrange, conſidering her long faſting: and that is this for ſhe hath her ſpeech very perfect and has a great delight to talk and diſcourſe in the Scripture with any Scholar, there is very many of the Clegy doth come unto her far and near and hath very much diſcourſe, for ſhe is very ripe witted concer<g ref="char:EOLhyphen"/>ing the word of God, &amp; taketh much delight therein. Alſo for her perſon and complexion ſhe is worn away ſo bare that ſhe hath very ſmal left on her but skin and bone, ſhe hath no belly to be ſeen, for her intrails are dried up inſomuch that you may ſee her back bone through the skin of her belly, nothing ſhe can be likned to but the picture of death, all her body over but only the Lord keeps life in her her face is indifferent freſh &amp; hath ſome red in it, her ſpeech very perfect and
+<pb n="5" facs="tcp:36699:4"/>plain as any of we: but her voice very ſmal a very ſtrange thing unto man, but nothing is ſtrange unto the Lord: for as we may read in divers parts of Scripture of many things which the Lord wrought and brought to paſs which is very ſtrange to us, and was very ſtrange to thoſe people in thoſe days, Enoch <hi>lived nine hundred and five years,</hi> and Mathuſe<g ref="char:EOLhyphen"/>lah <hi>lived nine hundred ſixty and nine years.</hi> Ge<g ref="char:EOLhyphen"/>neſis 5.11.27. Which is very ſtrange to us, for now in our daies it is much to hear of any man that liveth one hundred, but I be<g ref="char:EOLhyphen"/>lieve not in our age that ever any was heard of that lived nineſcore which is a great deal ſhort of nine hundred ſixty nine: and yet I ſay if we ſhould hear of any to live ſo long, we ſhould think it very ſtrange, and ſhould think it deſerved to be Chronicled: then much more I ſay ought this miraculous won<g ref="char:EOLunhyphen"/>der of this Maid to be kept in memorial which hath lived above forty weeks without taſting any manner of mortal food, Moſes <hi>faſted forty days and forty nights and neither eat bread nor drank water.</hi> Exodus 34.28 Which was a mighty thing in thoſe days &amp; cauſed to be recorded in the Scripture, be<g ref="char:EOLhyphen"/>cauſe he faſted longer then any was known to do before, our <hi>Saviour Jeſus Chriſt faſted forty days and forty nights.</hi> But now in our
+<pb n="6" facs="tcp:36699:5"/>
+               <hi>dayes he ſheweth greater miraculous wonders in preſerving the life of this woman, without taking any mortal food now forty weeks and more, which is already for every day that our Saviour and</hi> Moſes <hi>faſted.</hi>
+            </p>
+            <p>
+               <hi>I ſay ſhe has faſted for every day a week and more: and this is it makes me the more bolder to ſay it is</hi> Gods love from heaven, to ſin<g ref="char:EOLhyphen"/>ners on earth, <hi>for</hi> I <hi>do fully believe that it is for love that the Lord bears to that poor crea<g ref="char:EOLhyphen"/>ture, which makes him to work this wonderful work upon her, for indeed I could wiſh with all my heart, that I and every poor ſoul living were but in as good a condition as the ſoul of that poor chriſtian is in for this my conſcience tells me I may boldly ſay that ſhe is fed with Angels food and the powers of Heaven is with her, and the Angel of the Lord is her door-keeper, and without doubt there is a place provided among thoſe bleſſed Angels, where ſhe ſhall receive life everlaſting world without end.</hi>
+            </p>
+            <p>
+               <hi>For why may not the Lord have ſpoken unto her the very ſame words which he ſpake to</hi> Mo<g ref="char:EOLhyphen"/>ſes. And he ſaid my preſence ſhall go with thee, and I will give thee reſt Exodus 33.14.
+<pb n="7" facs="tcp:36699:5"/>
+               <hi>A bleſſed and a comfortable ſaying this was to have the ſpirit of the Lord go along with ſinners, and this we may be aſſured; this was for love which the Lord bare to thoſe people for they were but a ſtiff-necked people, as he tells them in the third verſe of this chap<g ref="char:EOLhyphen"/>ter, and yet out of his love he promiſed to go with them and give them reſt, for we may aſsure our ſelves the Lord will give reſt, wiſdom, knowledge and underſtanding to all ſuch as he loves, as you may find in</hi> Proverbs <hi>the</hi> 7. <hi>and the</hi> 6 <hi>verſe.</hi> For the Lord giveth wiſdom out of his mouth cometh knowledge and un<g ref="char:EOLhyphen"/>derſtanding.</p>
+            <p>
+               <hi>And now to draw toward a concluſion</hi> I <hi>deſire to give you one word or two more concerning the wondrous work of the Lord which</hi> I <hi>have termed to be</hi> Gods love from hea<g ref="char:EOLhyphen"/>ven to ſinners upon earth, <hi>as you may find it concerning</hi> Lazarus <hi>for after he had been four days dead the Lord put life into him, as you may find in the thirty ninth chapter of</hi> John.</p>
+            <p>
+               <hi>Where he ſaid to</hi> Martha take away the ſtone Martha <hi>the ſiſter of him that was dead, ſaid unto him Lord by this time he ſtinketh for he hath bin
+<pb n="8" facs="tcp:36699:6"/>daies dead,</hi> but for all that <hi>Jeſus ſaith unto her, that if thou wouldeſt beleive, thou ſhouldeſt ſee the glory of God. Then they took away the ſtore from the place where the dead was laid. And Jeſus lift up his eyes, and ſaid, Father, I thank thee that thou haſt heard me. And I know that thou heareſt me alwayes: but becauſe of the people which ſtand by, I ſaid it, that they may believe that thou haſt ſent me. And, when he had thus ſpoken, he cryed with a loud voice,</hi> Lazarus <hi>come forth. And he that was dead, came forth, bound hand and foot with grave-cloaths, and his face was bound about with a napkin. Jeſus ſaith unto them, looſe him and let him go.</hi> as you may find it in the 40 41. 42. 43. 44. verſes of the 11 chapter of <hi>John.</hi> Many of theſe won<g ref="char:EOLhyphen"/>drous works did our Saviour Jeſus Chriſt ſhew to the people in thoſe days, yet as you may underſtand by theſe words in the 42. v. The people was very hard of belief in thoſe daies, and indeed it is to be feared that there is too many in theſe days, which will be very loath to believe this wonderful work which he has wrought upon this woman, nay there is many more places in the Scripture of very ſtrange Miracles which was done in thoſe days I ſhall but onely give you a hint of ſome of them, becauſe I am confined unto a ſmall quantity of paper: but in the firſt place
+<pb n="9" facs="tcp:36699:6"/>I pray conſider the great work of the Lord in the three children which he preſerved from the raging heat of the fiery Furnace as you may finde in <hi>Daniel</hi> the third, alſo <hi>Daniel</hi> de<g ref="char:EOLhyphen"/>livered in the Lyons den <hi>Daniel</hi> the 6. <hi>Jonas</hi> in the Whales belly, with divers more places in Scripture which is too tedious for to ſet down in this ſmal volumn, yet I call to mind one notable place where our Saviour raiſed <hi>Jarius</hi> daughter from death to life, and the people mocked him as you may find in the 8 chapter of <hi>Luke</hi> &amp; about the 49 v. &amp; ſo on to the end of the chapter. <hi>While he yet ſpake there came one from the ruler of the houſe ſaying to him, thy daughter is dead, trouble not the Maſter. But when</hi> Jeſus <hi>heard it, he anſwered him ſaying, fear not, believe only, and ſhe ſhall be made whole</hi> but in the 52 verſe. <hi>And all wept, and bewail<g ref="char:EOLunhyphen"/>ed her: but he ſaid, weep not, ſhe is not dead, but ſleepeth. And they laughed him to ſcorn, know<g ref="char:EOLhyphen"/>ing that ſhe was dead, but he ut them all out, and took her by the hand, and called, ſaying, Maid, ariſe, And her ſpirit came again, and ſhe aroſe ſtraitway: and he commanded to give her meat.</hi> And here you may ſee the Lord ſhewed great love <hi>to ſinners upon earth,</hi> for all they laughed him to ſcorn as you may find in the 53 verſe. Yet he was willing to work that marvellous work upon that young woman,
+<pb n="10" facs="tcp:36699:7"/>and raiſe her from death to life which was a very ſtrange thing to man, to ſee thoſe which be dead to have life put in<g ref="char:EOLhyphen"/>to them again, and indeed this wonder which I have here related to you is much after the ſame manner, for though ſhe yet never parted with life in this world, yet in conſidering the condition that ſhe is in now: I ſay ſhe is much what as dead to this mortal life; having not ta<g ref="char:EOLhyphen"/>ſted any kind of mortal food, not of for<g ref="char:EOLhyphen"/>ty weeks and more, which may well be counted <hi>a Wonder of Wonders</hi> to all men now living.</p>
+            <p>And ſo now to draw to a concluſion I will end with a word or two of exhortation, de<g ref="char:EOLhyphen"/>ſiring every chriſtian to bear in mind this Damſel which I have here ſpoken of, and to conſider the Lord hath not ſhown this handy work upon her only for her own ſin. O no, but as you may find in the 13 of <hi>Luke</hi> &amp; the 5 verſe. <hi>I tell you, Nay: but except ye repent, yee ſhall all likewiſe periſh.</hi> and ſo I pray God give us all grace ſo to do whilſt we live in this world that we may receive life ever<g ref="char:EOLhyphen"/>laſting in the world to come, world without end. <hi>Amen.</hi>
+            </p>
+            <pb n="11" facs="tcp:36699:7"/>
+            <p>So the grace of our Lord Jeſus-Chriſt be with us all this time henceforth and for evermore <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:36699:8"/>
+            <head>Here followeth a ſhort prayer fit to be ſaid by all ſinners.</head>
+            <p>O Moſt gracious and moſt glorious Lord God give ear unto our Prayer, conſider our Pe<g ref="char:EOLhyphen"/>tition and fulfil thy promiſe made of old to our forefathers, that when two or three are met to<g ref="char:EOLhyphen"/>gether thou art in the midſt of them, ſo we deſire that thou would be pleaſed to be with us at this preſent time and to make anſwer unto us: oh thou that art the God of peace, the God of love, the God of mercy, we poor miſerable and wretched ſin<g ref="char:EOLhyphen"/>ners, do beſeech thee to be merciful unto us, and to all ſinners: we confeſſe O Lord we have rebel<g ref="char:EOLhyphen"/>led againſt thee, and according to thy moſt holy word we have moſt wickedly done theſe things, which we ſhould not have done, and we have left undone that which thou ſaideſt we ſhould do, and the truth is not in us: but oh Lord have mercy upon us, have mercy and deal not with us accord<g ref="char:EOLhyphen"/>ing to our deſert for Jeſus Chriſt ſake, but accord<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:36699:8"/>to thy tender mercy blot out all our offences, spare us O Lord and forgive us, make us to be<g ref="char:EOLhyphen"/>come new creatures, take away from us our ſtony hearts of unbeleif, and give us believing hearts of fleſh, that we may believe, that thou art the God that can work great and marvellous and won<g ref="char:EOLhyphen"/>derful works, thou makeſt the lame to go, the blind to ſee, the dum to ſpeak, them that be in the grave thou canſt raiſe them up and put life into them, and now O Lord thou haſt ſhown thy handy work in a moſt wonderful manner upon the body of this our Siſter, in giving ſo long and large a time of repentance, for as thou haſt given her bo<g ref="char:EOLhyphen"/>dy power and ſtrength to keep ſo long a faſt from mortal food, even ſo oh Lord wee deſire too feed her ſoul with the ſpiritual food of thy bleſſed king<g ref="char:EOLhyphen"/>dome, that when thou art willing that ſhe and we ſhall change this mortal life, then thou would be pleaſed to receive us into thy kingdom, and give us that ever laſting life which never ſhall have end, <hi>Amen Lord Jeſus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
